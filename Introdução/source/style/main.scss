@@ -1,0 +1,19 @@
+@use 'variavel';
+
+body{
+    background: variavel.$corPrincipal;
+    font: variavel.$textoPadrao;
+
+    header{
+        color: variavel.$corTexto;
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow: variavel.$sombra;
+    }
+
+    section{
+        bac
+    }
+}
